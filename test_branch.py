@@ -6,10 +6,9 @@ def main():
     print("abc")
     x=4
     y=6
-    z=3
+    z=17
     print(f"x = {x}, y = {y}, z = {z}")
     print(f"x+y-z= {x+y-z}")
-    print("meh")
 
 
 if __name__ == '__main__':
